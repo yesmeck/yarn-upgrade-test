@@ -1,0 +1,9 @@
+{
+  "name": "meck-test-cc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "meck-test-aa": "^1.0.1"
+  }
+}
